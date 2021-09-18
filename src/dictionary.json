@@ -1,0 +1,129 @@
+{
+    "words" : [
+        {
+            "word":"être",
+            "def":"to be",
+            "id":"1"
+        },
+        {
+            "word":"avoir",
+            "def":"to have",
+            "id":"2"
+        },
+        {
+            "word":"pouvoir",
+            "def":"to be able (can)",
+            "id":"3"
+        },
+        {
+            "word":"faire",
+            "def":"to do, to make",
+            "id":"4"
+        },
+        {
+            "word":"mettre",
+            "def":"to put, to place",
+            "id":"5"
+        },
+        {
+            "word":"dire",
+            "def":"to say, to tell",
+            "id":"6"
+        },
+        {
+            "word":"devoir",
+            "def":"to have to, must, to owe",
+            "id":"7"
+        },
+        {
+            "word":"prendre",
+            "def":"to take, to catch, to capture",
+            "id":"8"
+        },
+        {
+            "word":"donner",
+            "def":"to give, to produce",
+            "id":"9"
+        },
+        {
+            "word":"aller",
+            "def":"to go",
+            "id":"10"
+        },
+        {
+            "word":"vouloir",
+            "def":"to want, to wish",
+            "id":"11"
+        },
+        {
+            "word":"comprendre",
+            "def":"to understand, to include, to comprehend",
+            "id":"12"
+        },
+        {
+            "word":"savoir",
+            "def":"to know",
+            "id":"13"
+        },
+        {
+            "word":"falloir",
+            "def":"to have to",
+            "id":"14"
+        },
+        {
+            "word":"voir",
+            "def":"to see",
+            "id":"15"
+        },
+        {
+            "word":"demander",
+            "def":"to ask, to request",
+            "id":"16"
+        },
+        {
+            "word":"trouver",
+            "def":"to find, to discover",
+            "id":"17"
+        },
+        {
+            "word":"rendre",
+            "def":"to return (something), to give back",
+            "id":"18"
+        },
+        {
+            "word":"venir",
+            "def":"to come",
+            "id":"19"
+        },
+        {
+            "word":"passer",
+            "def":"to pass, to go past",
+            "id":"20"
+        },
+        {
+            "word":"rester",
+            "def":"to stay, to remain",
+            "id":"21"
+        },
+        {
+            "word":"tenir",
+            "def":"to hold, to keep",
+            "id":"22"
+        },
+        {
+            "word":"porter",
+            "def":"to carry, to wear",
+            "id":"23"
+        },
+        {
+            "word":"parler",
+            "def":"to speak, to talk",
+            "id":"24"
+        },
+        {
+            "word":"montrer",
+            "def":"to show, to display",
+            "id":"25"
+        }
+    ]
+}
